@@ -1,0 +1,878 @@
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver. 2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\Softeng - Ver.3\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\Softeng - Ver.3\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.5\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.5\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VER. 4 ONWARDS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.6\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.7\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\Softeng - Ver.9\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+H:\Softeng - Ver.9\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.10\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.11\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.11\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.11\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+D:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+F:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+F:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+F:\Softeng - Ver.12\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+F:\Softeng - Ver.12\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.13\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.14\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.tblItemsSummary.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.15\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UpdateForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+E:\Softeng - Ver.16\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+E:\Softeng - Ver.16\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Princess\Desktop\SOFTENG VERSIONS\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Alan\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Arianna\Desktop\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.data.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\mysql.web.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe.config
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.pdb
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.Properties.Resources.resources
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.exe
+H:\Softeng-Ver.18 (2)\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.pdb
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe.config
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.pdb
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.Properties.Resources.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.exe
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.pdb
+C:\Users\Arianna\Desktop\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe.config
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.pdb
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.Properties.Resources.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.exe
+C:\Users\Princess\Downloads\final\Softeng - Ver.18\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe.config
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.pdb
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\mysql.data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\mysql.data.entity.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\mysql.web.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.Properties.Resources.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.exe
+C:\Users\Alan\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.pdb
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe.config
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.exe
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\DavinConstructionSupply.pdb
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Razor.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.WebData.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\WebMatrix.Data.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Helpers.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.Razor.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AddItem.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.AdminForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.CustomerSearch.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Dashboard.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.EmployeeForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.LoginForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ItemSearch.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.NotificationForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.Properties.Resources.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.RegistrationForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ReportForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Search.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.StartUpForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.SupplierSearch.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Update.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ViewForm.resources
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.exe
+C:\Users\WIN\Desktop\Softeng - Ver.19\WindowsFormsApplication8\obj\Debug\DavinConstructionSupply.pdb
